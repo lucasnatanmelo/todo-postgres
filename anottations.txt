@@ -1,0 +1,27 @@
+1 - Inicializar node
+    npm init -y
+
+2 - Instalar express
+    npm install express 
+
+3 - Instalar dependencia - Postgre
+    npm install pg
+
+4 - Instalar dependencias - DotEnv
+    npm install dotenv
+
+5 - Instalar dependencia de dev - Nodemon
+    npm install nodemon -D
+
+6 - Instalar cors
+    npm install cors
+
+Para inicalizar o servidor:
+    npm run start-dev
+
+Gerenciador de banco de dados online:
+    elephantSQL
+
+Para rodar no HEROKU
+    criar arquivo
+        Procfile
